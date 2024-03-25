@@ -12,7 +12,7 @@
 - The Average price for vehicles based on the type of vehicle as well as on the type of gearbox.
 - The marginal probability of private seller
   
-**Analysis 3 includes:**
+**[Data Analysis 3](https://github.com/kadiyalauday/Advanced-Data-Analysis/blob/main/Data%20Analysis3.ipynb)  includes:**
 - How can we reduce the memory usage of the data set.
 - The Average price of vehicle by fuel type and gearbox type.
 - The average power of a vehicle by gear box type and vehicle type.
